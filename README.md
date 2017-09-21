@@ -36,8 +36,8 @@ For the individual workshops, please install the following:
     npm install -g ionic      
     npm install -g cordova
     ```
-- **Bridget McErlean - Introduction to React**
+- **Bridget McErlean - Introduction to React**     
     Using https://codepen.io/ so no installation required
     
-- **Liv Franzen - Coding in three dimensions - an introduction to WebVR**
+- **Liv Franzen - Coding in three dimensions - an introduction to WebVR**       
     Bring and Android Phone if you have one :) 
