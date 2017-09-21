@@ -40,4 +40,10 @@ For the individual workshops, please install the following:
     Using https://codepen.io/ so no installation required
     
 - **Liv Franzen - Coding in three dimensions - an introduction to WebVR**       
-    Bring and Android Phone if you have one :) 
+    HTTP Server:
+    ```bash
+    npm install -g http-server 
+     ```
+    And bring a Android Phone with the Google VR Services app installed ( requires Android OS version 6+ Marshmallow ), if you can :) 
+ 
+    
