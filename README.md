@@ -1,6 +1,6 @@
 # JS Workshop 2017
 
-## Links and material for the workshops on 24 September 2017
+## Links and materials for the workshops on 24 September 2017
 
 - **Alex Jones - Angular (2/4) Fundamentals**   
                               
